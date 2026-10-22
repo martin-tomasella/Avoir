@@ -1,0 +1,27 @@
+# deps
+node_modules/
+.pnp.*
+.yarn/
+# build
+dist/
+build/
+.next/
+out/
+# env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# flutter
+apps/mobile/.dart_tool/
+apps/mobile/build/
+apps/mobile/.flutter-plugins*
+# os / editor
+.DS_Store
+.idea/
+.vscode/
+*.log
+# supabase
+supabase/.branches/
+supabase/.temp/
