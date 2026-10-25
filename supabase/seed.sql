@@ -1,0 +1,4 @@
+-- Avoir demo seed — tenant "Inteltech Demo" + login demo@avoir.app / avoir1234
+-- + 6 activos/dispositivos, 18 posiciones (CABA), geozona, punto de control, jornada y 1 alarma.
+-- Aplicado al proyecto en 2026-10. Idempotente por UUIDs fijos (hex). Ver git log para el SQL completo.
+-- (Datos de demostración; no usar en producción.)

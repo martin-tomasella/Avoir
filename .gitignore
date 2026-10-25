@@ -25,3 +25,5 @@ apps/mobile/.flutter-plugins*
 # supabase
 supabase/.branches/
 supabase/.temp/
+apps/web/dist/
+apps/web/node_modules/
